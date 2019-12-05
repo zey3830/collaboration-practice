@@ -6,7 +6,7 @@
 #### 6
 #### 7 David was not here!
 #### 8
-#### 9
+#### 9 Github is ~~not~~ awesome.
 #### 10
 #### 11
 #### 12
